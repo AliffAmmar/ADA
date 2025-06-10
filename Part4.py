@@ -3,7 +3,6 @@
 import pandas as pd
 import networkx as nx
 
-# Load the dataset (update the path as needed)
 file_path = "/Users/A/Downloads/Dataset for Group Project-20250605/Stargate_Data.csv"
 
 df = pd.read_csv(file_path)
