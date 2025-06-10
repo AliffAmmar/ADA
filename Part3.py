@@ -2,7 +2,6 @@
 
 import pandas as pd
 
-# Load data from CSV file (update the path as needed)
 file_path = "/Users/A/Downloads/Dataset for Group Project-20250605/Compartment_Sensor_Data.csv"
 df = pd.read_csv(file_path)
 
